@@ -5,7 +5,7 @@ Eg:
 probabilities.csv 
 
 This is a sample string,0.56  
-This is another string,0.30 
+This is another string,0.30   
 This is yet another string,0.1  
 Least occurring string,0.04 
 
