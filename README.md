@@ -1,5 +1,5 @@
 # RandomProbabilityStringGenerator
-This java program ingests a csv file containing a String and its output probability and then prints the randomised string. The program creates a arraylist of input contents and uses cumulative probability property and modified random function to output the string.
+This java program ingests a csv file containing a String and its output probability and then prints the randomised string. The program creates a arraylist of input contents and uses cumulative probability property while ingesting the file. A random number between 0 and 1 is generated and matched against cumulative probability of input string.
 
 Eg:
 probabilities.csv   
